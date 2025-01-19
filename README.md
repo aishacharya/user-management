@@ -7,7 +7,7 @@ This project is a Java-Spring Boot based user management system designed to hand
 - Swagger docummentation is available at :http://localhost:8080/swagger-ui/index.html  after your application is running.
 - APIs are provided for all basic CRUD operations along with an additional findByUsername method.
 - Custom exception andling, API validations,Logs and docstrings ,Custom Error API responses and Unit test cases are integrated.
-- The project includes Basic Authentication. When accessed via Swagger or directly through a browser, a pop-up will appear prompting for credentials. The credentials are as follows:Username: user Password: user@123
+- The project includes Basic Authentication. When accessed via Swagger or directly through a browser, a pop-up will appear prompting for credentials. The credentials are as follows: **Username**: user **Password**: user@123
 
 ## Prerequisites
 
